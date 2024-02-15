@@ -1,0 +1,13 @@
+GIT Interview Questions
+
+1. git init - is used to initialize a blank repository. It creates a .git folder in the current working directory.
+
+2. 
+
+
+
+
+
+
+
+
